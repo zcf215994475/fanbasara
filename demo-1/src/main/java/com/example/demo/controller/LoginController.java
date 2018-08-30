@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 	  
 		@RequestMapping("/login")
 		public String login() {
-	        return "need login";
+	        return "hahaha  need login";
 	    }
 	
 		//登录
